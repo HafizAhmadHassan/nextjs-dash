@@ -1,4 +1,5 @@
 # Next.js Dashboard
+*Created: 2024-05-25*
 
 A dashboard application built while working through the **official Next.js App Router course**.
 
